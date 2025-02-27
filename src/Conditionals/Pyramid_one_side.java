@@ -1,7 +1,7 @@
 package Conditionals;
 import java.util.Scanner;
 
-public class Pyramid
+public class Pyramid_one_side
 {
     public static void main(String[] args)
     {
