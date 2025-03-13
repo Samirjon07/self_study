@@ -1,4 +1,4 @@
-package Conditionals;
+package Conditionals.Midterm;
 
 public class Reverse_pyramid_do {
     public static void main(String[] args) {
